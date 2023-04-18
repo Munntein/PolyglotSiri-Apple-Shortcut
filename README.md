@@ -42,7 +42,7 @@ https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97
 
 ## Usage
 
-1. Download the [shortcut](https://www.icloud.com/shortcuts/9bd65fdaf1714ce09f862253d3324086).
+1. Download the [shortcut](https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97).
 2. Simply tap the shortcut and let the magic happen.
 3. The audio recording will stop after 15 seconds by default. You can stop it either by tapping or waiting for the countdown to end.
 4. Wait for responce.

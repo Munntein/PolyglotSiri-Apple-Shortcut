@@ -16,8 +16,7 @@ PolyglotSiri 基于 [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) 并
 
 ## 快捷方式链接
 
-~~https://www.icloud.com/shortcuts/9bd65fdaf1714ce09f862253d3324086~~
-https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97
+https://www.icloud.com/shortcuts/61bbd941bfce433cb9193d990a8f4004
 <br>
 (之前的捷径有问题，azure language API 服务在endpoint 之后的后缀 "/text/analytics/v3.0/languages" 被弄丢了。)
 
@@ -62,7 +61,7 @@ https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97
 
 ## 使用方法
 
-1. 下载 [快捷方式](https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97)。
+1. 下载 [快捷方式](https://www.icloud.com/shortcuts/61bbd941bfce433cb9193d990a8f4004)。
 
 2. 点击快捷方式并等待魔法发生。
 

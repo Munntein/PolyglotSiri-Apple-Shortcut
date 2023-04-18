@@ -15,9 +15,7 @@ In addition to the OpenAI chatGPT API, Three other REST APIs are used:
 
 
 ## Shortchut Link
-
-~~https://www.icloud.com/shortcuts/9bd65fdaf1714ce09f862253d3324086~~
-https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97
+https://www.icloud.com/shortcuts/61bbd941bfce433cb9193d990a8f4004
 <br>
 (the previous shortcut link has an issue, the url suffix after endpoint "/text/analytics/v3.0/languages" of azure language service was lost by mistake)
 
@@ -43,7 +41,7 @@ https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97
 
 ## Usage
 
-1. Download the [shortcut](https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97).
+1. Download the [shortcut](https://www.icloud.com/shortcuts/61bbd941bfce433cb9193d990a8f4004).
 2. Simply tap the shortcut and let the magic happen.
 3. The audio recording will stop after 15 seconds by default. You can stop it either by tapping or waiting for the countdown to end.
 4. Wait for responce.

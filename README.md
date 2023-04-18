@@ -16,7 +16,9 @@ In addition to the OpenAI chatGPT API, Three other REST APIs are used:
 
 ## Shortchut Link
 
-https://www.icloud.com/shortcuts/9bd65fdaf1714ce09f862253d3324086
+--https://www.icloud.com/shortcuts/9bd65fdaf1714ce09f862253d3324086--
+https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97
+(the previous shortcut link has an issue, the url suffix after endpoint "/text/analytics/v3.0/languages" of azure language service lost by mistake)
 
 
 

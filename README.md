@@ -18,6 +18,7 @@ In addition to the OpenAI chatGPT API, Three other REST APIs are used:
 
 ~~https://www.icloud.com/shortcuts/9bd65fdaf1714ce09f862253d3324086~~
 https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97
+<br>
 (the previous shortcut link has an issue, the url suffix after endpoint "/text/analytics/v3.0/languages" of azure language service lost by mistake)
 
 
@@ -36,7 +37,7 @@ https://www.icloud.com/shortcuts/a8b9db700ad544dfab80f57ce8a83d97
    - language and voice setting,  in TTS request body,  customize your language and vocie setting. Find all vocie here, https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support?tabs=tts#supported-languages
    - In TTS request header, you can specify the audio output quality “X-Microsoft-OutputFormat”. Find all audio outputs here, https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-text-to-speech?tabs=streaming#audio-outputs
 4. Specify mulit-language if statement
-   - To make azure TTS support multi-languge vocie, we need to use Azure language cognition to recognize text language. And using if statements to 
+   - To make azure TTS support multi-languge vocie, we need to use Azure language cognition to recognize text language. And using if statements to make it using the corresponding TTS language engine when speaking. 
 
 
 

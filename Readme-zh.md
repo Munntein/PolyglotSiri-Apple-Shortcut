@@ -1,5 +1,9 @@
 # PolyglotSiri 苹果快捷方式
 
+[![GitHub stars](https://img.shields.io/github/stars/Munntein/PolyglotSiri-Apple-Shortcut?style=plastic)](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Munntein/PolyglotSiri-Apple-Shortcut?style=plastic)](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/network/members)
+[![GitHub license](https://img.shields.io/github/license/Munntein/PolyglotSiri-Apple-Shortcut?style=plastic)](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/blob/main/LICENSE.md)
+
 PolyglotSiri 基于 [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) 并增强了其多语言和语音能力。
 
 现在您可以用任何语言与 Siri 对话。而且 Siri 的响应是双语的（我设置为英文和中文），声音更加自然。现在您可以把 Siri 当作外国朋友，并与它进行语言训练。

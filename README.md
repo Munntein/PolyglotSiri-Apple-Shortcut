@@ -1,5 +1,9 @@
 # PolyglotSiri Apple Shortcut
 
+GitHub stars](https://img.shields.io/github/stars/Munntein/PolyglotSiri-Apple-Shortcut?style=plastic)](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Munntein/PolyglotSiri-Apple-Shortcut?style=plastic)](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/network/members)
+[![GitHub license](https://img.shields.io/github/license/Munntein/PolyglotSiri-Apple-Shortcut?style=plastic)](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/blob/main/LICENSE.md)
+
 [中文介绍](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/blob/main/Readme-zh.md)
 
 PolyglotSiri is based on [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) and enhances its multilingual and speech capabilities.

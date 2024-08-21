@@ -1,6 +1,6 @@
 # PolyglotSiri Apple Shortcut
 
-[!GitHub stars](https://img.shields.io/github/stars/Munntein/PolyglotSiri-Apple-Shortcut?style=plastic)](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Munntein/PolyglotSiri-Apple-Shortcut?style=plastic)](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Munntein/PolyglotSiri-Apple-Shortcut?style=plastic)](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/network/members)
 [![GitHub license](https://img.shields.io/github/license/Munntein/PolyglotSiri-Apple-Shortcut?style=plastic)](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/blob/main/LICENSE.md)
 
